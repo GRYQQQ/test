@@ -4,38 +4,38 @@
 # In[1]:
 
 
-pip install scikit-learn
+!pip install scikit-learn
 
 
 # In[2]:
 
 
-pip install pypdf
+!pip install pypdf
 
 
 # In[3]:
 
 
-pip install python-docx
+!pip install python-docx
 
 
 # In[4]:
 
 
-pip install ipywidgets
+!pip install ipywidgets
 
 
 # In[5]:
 
 
-pip install widgetsnbextension
+!pip install widgetsnbextension
 
 
 # In[6]:
 
 
-#!jupyter nbextension enable --py widgetsnbextension --sys-prefix
-#!jupyter serverextension enable voila --sys-prefix
+!jupyter nbextension enable --py widgetsnbextension --sys-prefix
+!jupyter serverextension enable voila --sys-prefix
 
 
 # In[7]:
