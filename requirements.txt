@@ -1,8 +1,29 @@
+# Streamlit 相关
 streamlit
+
+# 数据处理
 pandas
+numpy
+scipy
+
+# 机器学习/统计分析
+scikit-learn
+statsmodels
+
+# 可视化相关
 matplotlib
 seaborn
+plotly
+altair
+
+# 交互式控件（适用于 Jupyter Notebook）
+ipywidgets
+
+# 文档处理
 pypdf
 python-docx
-scikit-learn
-ipywidgets
+openpyxl  # 处理 Excel 文件
+
+# 其他实用工具
+requests  # 处理 HTTP 请求
+beautifulsoup4  # 解析 HTML（如果需要爬取数据）
