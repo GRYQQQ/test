@@ -969,13 +969,6 @@ if __name__ == "__main__":
     main()
 
 
-# In[25]:
-
-
-pip install jupyter-server-proxy streamlit
-
-
-# In[ ]:
 
 
 
